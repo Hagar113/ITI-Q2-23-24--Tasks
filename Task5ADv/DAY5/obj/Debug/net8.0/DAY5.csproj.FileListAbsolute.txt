@@ -1,0 +1,14 @@
+D:\c# advanced\Task5ADv\day5\obj\Debug\net8.0\DAY5.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# advanced\Task5ADv\day5\obj\Debug\net8.0\DAY5.AssemblyInfoInputs.cache
+D:\c# advanced\Task5ADv\day5\obj\Debug\net8.0\DAY5.AssemblyInfo.cs
+D:\c# advanced\Task5ADv\day5\obj\Debug\net8.0\DAY5.csproj.CoreCompileInputs.cache
+D:\c# advanced\Task5ADv\day5\bin\Debug\net8.0\DAY5.exe
+D:\c# advanced\Task5ADv\day5\bin\Debug\net8.0\DAY5.deps.json
+D:\c# advanced\Task5ADv\day5\bin\Debug\net8.0\DAY5.runtimeconfig.json
+D:\c# advanced\Task5ADv\day5\bin\Debug\net8.0\DAY5.dll
+D:\c# advanced\Task5ADv\day5\bin\Debug\net8.0\DAY5.pdb
+D:\c# advanced\Task5ADv\day5\obj\Debug\net8.0\DAY5.dll
+D:\c# advanced\Task5ADv\day5\obj\Debug\net8.0\refint\DAY5.dll
+D:\c# advanced\Task5ADv\day5\obj\Debug\net8.0\DAY5.pdb
+D:\c# advanced\Task5ADv\day5\obj\Debug\net8.0\DAY5.genruntimeconfig.cache
+D:\c# advanced\Task5ADv\day5\obj\Debug\net8.0\ref\DAY5.dll

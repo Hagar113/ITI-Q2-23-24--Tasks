@@ -1,0 +1,14 @@
+D:\c# advanced\Task4ADv\TASK4\bin\Debug\net8.0\TASK4.exe
+D:\c# advanced\Task4ADv\TASK4\bin\Debug\net8.0\TASK4.deps.json
+D:\c# advanced\Task4ADv\TASK4\bin\Debug\net8.0\TASK4.runtimeconfig.json
+D:\c# advanced\Task4ADv\TASK4\bin\Debug\net8.0\TASK4.dll
+D:\c# advanced\Task4ADv\TASK4\bin\Debug\net8.0\TASK4.pdb
+D:\c# advanced\Task4ADv\TASK4\obj\Debug\net8.0\TASK4.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# advanced\Task4ADv\TASK4\obj\Debug\net8.0\TASK4.AssemblyInfoInputs.cache
+D:\c# advanced\Task4ADv\TASK4\obj\Debug\net8.0\TASK4.AssemblyInfo.cs
+D:\c# advanced\Task4ADv\TASK4\obj\Debug\net8.0\TASK4.csproj.CoreCompileInputs.cache
+D:\c# advanced\Task4ADv\TASK4\obj\Debug\net8.0\TASK4.dll
+D:\c# advanced\Task4ADv\TASK4\obj\Debug\net8.0\refint\TASK4.dll
+D:\c# advanced\Task4ADv\TASK4\obj\Debug\net8.0\TASK4.pdb
+D:\c# advanced\Task4ADv\TASK4\obj\Debug\net8.0\TASK4.genruntimeconfig.cache
+D:\c# advanced\Task4ADv\TASK4\obj\Debug\net8.0\ref\TASK4.dll

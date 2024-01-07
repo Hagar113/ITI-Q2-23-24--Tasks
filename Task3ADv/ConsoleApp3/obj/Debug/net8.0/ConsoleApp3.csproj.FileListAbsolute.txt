@@ -1,0 +1,14 @@
+D:\c# advanced\Task3ADv\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.exe
+D:\c# advanced\Task3ADv\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.deps.json
+D:\c# advanced\Task3ADv\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.runtimeconfig.json
+D:\c# advanced\Task3ADv\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.dll
+D:\c# advanced\Task3ADv\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.pdb
+D:\c# advanced\Task3ADv\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# advanced\Task3ADv\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\c# advanced\Task3ADv\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.cs
+D:\c# advanced\Task3ADv\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\c# advanced\Task3ADv\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.dll
+D:\c# advanced\Task3ADv\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleApp3.dll
+D:\c# advanced\Task3ADv\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
+D:\c# advanced\Task3ADv\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
+D:\c# advanced\Task3ADv\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll
